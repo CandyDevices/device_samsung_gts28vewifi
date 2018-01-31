@@ -14,4 +14,5 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/full_gts28vewifi.mk
+    $(LOCAL_DIR)/full_gts28vewifi.mk \
+    $(LOCAL_DIR)/candy_gts28vewifi.mk
